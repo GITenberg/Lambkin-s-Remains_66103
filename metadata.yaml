@@ -1,0 +1,27 @@
+_repo: Lambkin-s-Remains_66103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2021-08-21'
+identifiers:
+  gutenberg: '66103'
+  lccn: '46042826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Satire, English'
+- !lcsh 'University of Oxford -- Fiction'
+- GITenberg
+title: Lambkin's Remains
+url: http://www.gutenberg.org/ebooks/66103
